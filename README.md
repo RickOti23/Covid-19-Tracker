@@ -28,4 +28,4 @@ This project is a data analysis and visualization report of global COVID-19 tren
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/covid19-global-tracker.git
-   cd covid19-global-tracker
+   cd Covid-19-Tracker
