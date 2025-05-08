@@ -1,7 +1,7 @@
 # 🦠 COVID-19 Global Data Tracker
 
 ## 📌 Project Description
-This project is a data analysis and visualization report of global COVID-19 trends using real-world data from [Our World in Data](https://ourworldindata.org/covid-data). It provides insights into the pandemic's spread, vaccination progress, and key statistics over time across selected countries.
+This project is a data analysis and visualization report of global COVID-19 trends using real-world data from [Our World in Data](https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset?resource=download). It provides insights into the pandemic's spread, vaccination progress, and key statistics over time across selected countries.
 
 ---
 
